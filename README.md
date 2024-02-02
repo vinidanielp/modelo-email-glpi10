@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🚀 Versão
 
-<a href="https://portalchamados.isoestemetalica.com.br:4452/glpi/index.php?noAUTO=1"><img src="https://img.shields.io/static/v1?label=GLPI&message=v10&color=007FBF&style=flat-square&logo=glpi"/></a>
+<img src="https://img.shields.io/static/v1?label=GLPI&message=v10&color=007FBF&style=flat-square&logo=glpi"/>
 
 ### ⚠️ Obeservação
 
