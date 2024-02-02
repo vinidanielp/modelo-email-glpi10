@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### ⚠️ Obeservação
 
-- Alterar o que esta entre {{ }} para sua empresa.
+- Alterar o que esta entre {{ }} para sua necessidade.
   
 ---
 
