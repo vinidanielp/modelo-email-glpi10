@@ -1,4 +1,4 @@
-# ✉️ Modelos de E-mail GLPI
+# ✉️ Modelo de E-mail GLPI 10
 
 ### 📨 Modelo padrão
 
